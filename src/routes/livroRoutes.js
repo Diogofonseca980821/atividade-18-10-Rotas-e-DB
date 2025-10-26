@@ -1,5 +1,5 @@
 const express = require ('express')
-const router = express.router()
+const router = express.Router()
 const { livrosControllers } = require ('../controllers/livrosControllers')
 
 //GET /Livros -> Listar todos os livros

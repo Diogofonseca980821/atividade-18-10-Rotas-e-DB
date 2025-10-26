@@ -1,0 +1,19 @@
+{
+    "autores": [
+    {
+      "idAutor": 1,
+      "nome": "Machado de Assis",
+      "nacionalidade": "Brasileiro"
+    },
+    {
+      "idAutor": 2,
+      "nome": "George Orwell",
+      "nacionalidade": "Britânico"
+    },
+    {
+      "idAutor": 3,
+      "nome": "Jane Austen",
+      "nacionalidade": "Britânica"
+    }
+  ]
+}

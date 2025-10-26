@@ -1,5 +1,5 @@
 const express = require ('express')
-router = express.router ()
+router = express.Routerouter ()
 const {clienteControllers } = require ('../controllers')
 const {livrosRoutes} = require ('./livroRoutes')
 

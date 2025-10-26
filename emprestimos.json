@@ -1,0 +1,17 @@
+{"emprestimos": [
+    {
+      "idEmprestimo": 1,
+      "dataEmprestimo": "2025-10-20",
+      "dataDevolucao": "2025-11-03",
+      "idLivro": 2,
+      "idCliente": 1
+    },
+    {
+      "idEmprestimo": 2,
+      "dataEmprestimo": "2025-10-22",
+      "dataDevolucao": "2025-11-05",
+      "idLivro": 1,
+      "idCliente": 2
+    }
+ ]
+} 

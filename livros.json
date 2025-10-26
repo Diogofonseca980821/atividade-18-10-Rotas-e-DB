@@ -1,11 +1,26 @@
-[
+{
+  "livros": [
     {
-        "Título" : "Naruto",
-        "qtdExemplares" : 12,
-        "anoPublicacao" : 2003
+      "idLivro": 1,
+      "titulo": "Dom Casmurro",
+      "anoPublicacao": 1899,
+      "quantidadeExemplares": 5,
+      "idAutor": 1
     },
-
     {
-        "Título" : 
+      "idLivro": 2,
+      "titulo": "1984",
+      "anoPublicacao": 1949,
+      "quantidadeExemplares": 3,
+      "idAutor": 2
+    },
+    {
+      "idLivro": 3,
+      "titulo": "Orgulho e Preconceito",
+      "anoPublicacao": 1813,
+      "quantidadeExemplares": 4,
+      "idAutor": 3
     }
-]
+  ]
+}
+
